@@ -9,7 +9,7 @@ const TypingAnim = () => {
         1000, // wait 1s before replacing "Mice" with "Hamsters"
         'Chat with your own personal AI bot! 🤖',
         1500,
-        'Good Luck, Have Fun',
+        'Good Luck, Have Fun!',
         2000,
       ]}
       wrapper="span"
